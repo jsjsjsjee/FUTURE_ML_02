@@ -1,5 +1,3 @@
-# FUTURE_ML_02
-
 # 📊 Telecom Customer Churn Prediction System
 
 An end-to-end **Machine Learning project** that predicts **customer churn probability** and provides **actionable business insights** using an interactive **Streamlit dashboard**.
